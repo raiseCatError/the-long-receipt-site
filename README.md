@@ -5,7 +5,7 @@
 The Long Receipt is an independent, unofficial research and data-visualization project about the player-run market in [Bconomy](https://bconomy.net). It looks at historical asking prices, completed sales, trading activity, and the game's changing rules to explore what happened in the market — and what the records cannot tell us.
 
 **[Explore The Long Receipt →](https://tlr.raisecaterror.com)**  
-*Public launch pending.*
+*Now live.*
 
 ## What's inside
 
