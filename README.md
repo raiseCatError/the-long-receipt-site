@@ -1,35 +1,35 @@
 # The Long Receipt
 
-**An interactive history of a player-run economy.**
+**An interactive visual history of Bconomy's player-run market, 2024–2026.**
 
-The Long Receipt is an independent, unofficial research and data-visualization project about the player-run market in [Bconomy](https://bconomy.net). It looks at historical asking prices, completed sales, trading activity, and the game's changing rules to explore what happened in the market — and what the records cannot tell us.
+**[Explore the live website →](https://tlr.raisecaterror.com)** · [About the creator](https://raisecaterror.com)
 
-**[Explore The Long Receipt →](https://tlr.raisecaterror.com)**  
-*Now live.*
+The Long Receipt (TLR) is an independent research and data-visualization project examining how a player-run game economy changes over time: what sellers ask for items, what buyers actually pay, how trading activity shifts, and how game updates intersect with the historical record.
 
-## What's inside
+It combines interactive market charts, visual stories, and documented research built from Bconomy's official Data API and historical market observations.
 
-The website combines narrative research with tools for exploring the historical record:
+## Explore the research
 
-- **Discover and Stories** — featured findings and longer investigations.
-- **Explore and Investigate** — interactive price and trading charts, comparisons, and analysis.
-- **Monthly** — a month-by-month view of recorded market activity.
-- **Gambling** — explorations of game mechanics and the economics of chance.
-- **Anomalies and Events** — unusual observations and a sourced history of game changes.
-- **Method** — definitions, limitations, data provenance, and the distinction between listings and sales.
+- **Discover & Stories** — the big picture and visual investigations of individual market phenomena.
+- **Explore** — an interactive workstation for item prices, completed sales, and trading volume.
+- **Investigate** — comparisons, relationships, and deeper questions about the market.
+- **Monthly** — an evolving view of trading activity over time.
+- **Gambling** — research into chance-driven game mechanics and their market implications.
+- **Anomalies & Events** — unusual observations alongside a sourced history of game changes.
+- **Method** — data sources, definitions, limitations, and how the analysis was produced.
 
-**A lowest asking price is not a completed sale.** The project keeps those records separate, makes its methodology visible, and does not treat correlation around a game update as proof of causation.
+**Listings are not sales.** An item's lowest asking price does not establish what it sold for. TLR distinguishes recorded asking prices from completed-sale observations and does not present correlation around updates as proof of causation.
 
 ## About this repository
 
-This is the **public project page**, not the application's source repository. The implementation, data-processing code, historical market datasets, API responses, spreadsheets, and internal research archives are maintained privately and **are not distributed here**.
+This is the **public showcase and feedback repository**, not the website's source-code repository.
 
-This repository is **not an open-source release** and does not grant a license to the underlying application, research data, or third-party materials.
+The application's implementation, data-processing pipeline, original collected datasets, spreadsheets, and internal research archives are maintained privately. They are **not published or licensed for reuse** through this repository.
 
-You can use GitHub Issues here to share feedback or report a problem with the public website.
+You can [open an issue](https://github.com/raiseCatError/the-long-receipt-site/issues) to report a problem, suggest an improvement, or share feedback.
 
 ## Independent project
 
-The Long Receipt is not affiliated with, sponsored, or endorsed by Bconomy or its developers. It is a historical study, not trading advice.
+The Long Receipt is an unofficial independent project. It is not affiliated with, sponsored by, or endorsed by Bconomy or its developers. Its findings are historical research, not trading advice.
 
-Created by **[raiseCatError](https://raisecaterror.com)**.
+Made by **[raiseCatError](https://raisecaterror.com)**.
